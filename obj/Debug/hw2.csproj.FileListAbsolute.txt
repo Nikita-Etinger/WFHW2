@@ -1,0 +1,16 @@
+G:\project\CSH\hw2\bin\Debug\hw2.exe.config
+G:\project\CSH\hw2\bin\Debug\hw2.exe
+G:\project\CSH\hw2\bin\Debug\hw2.pdb
+G:\project\CSH\hw2\obj\Debug\hw2.csproj.AssemblyReference.cache
+G:\project\CSH\hw2\obj\Debug\hw2.First.resources
+G:\project\CSH\hw2\obj\Debug\hw2.Form1.resources
+G:\project\CSH\hw2\obj\Debug\hw2.Properties.Resources.resources
+G:\project\CSH\hw2\obj\Debug\hw2.csproj.GenerateResource.cache
+G:\project\CSH\hw2\obj\Debug\hw2.csproj.CoreCompileInputs.cache
+G:\project\CSH\hw2\obj\Debug\hw2.exe
+G:\project\CSH\hw2\obj\Debug\hw2.pdb
+G:\project\CSH\hw2\obj\Debug\hw2.second.resources
+G:\project\CSH\hw2\bin\Debug\Newtonsoft.Json.dll
+G:\project\CSH\hw2\bin\Debug\Newtonsoft.Json.xml
+G:\project\CSH\hw2\obj\Debug\hw2.third.resources
+G:\project\CSH\hw2\obj\Debug\hw2.csproj.CopyComplete
