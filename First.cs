@@ -12,13 +12,14 @@ namespace hw2
         public First()
         {
             InitializeComponent();
+            this.MouseClick += Form_MouseClick;
+            this.MouseMove += Form_MouseMove;
         }
 
         private void First_Load(object sender, EventArgs e)
         {
 
-            this.MouseClick += Form_MouseClick;
-            this.MouseMove += Form_MouseMove;
+            
         }
 
         private void Form_MouseClick(object sender, MouseEventArgs e)

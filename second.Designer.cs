@@ -69,6 +69,8 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.numericUpDown2);
+            this.MaximumSize = new System.Drawing.Size(284, 190);
+            this.MinimumSize = new System.Drawing.Size(284, 190);
             this.Name = "second";
             this.Text = "second";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();

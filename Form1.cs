@@ -40,5 +40,10 @@ namespace hw2
             frm.ShowDialog();
         }
 
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Fourth1 frm = new Fourth1();
+            frm.ShowDialog();
+        }
     }
 }

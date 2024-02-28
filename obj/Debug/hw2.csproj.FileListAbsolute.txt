@@ -14,3 +14,5 @@ G:\project\CSH\hw2\bin\Debug\Newtonsoft.Json.dll
 G:\project\CSH\hw2\bin\Debug\Newtonsoft.Json.xml
 G:\project\CSH\hw2\obj\Debug\hw2.third.resources
 G:\project\CSH\hw2\obj\Debug\hw2.csproj.CopyComplete
+G:\project\CSH\hw2\obj\Debug\hw2.fourth1.resources
+G:\project\CSH\hw2\obj\Debug\hw2.Fourth2.resources

@@ -20,6 +20,7 @@ namespace hw2
             textBox6.KeyPress += textBox6_KeyPress;
             comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBox2.DropDownStyle = ComboBoxStyle.DropDownList;
+            dateTimePicker1.MaxDate = DateTime.Now;
         }
 
         private void LoadDataFromJson()

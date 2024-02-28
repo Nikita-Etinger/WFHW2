@@ -162,9 +162,11 @@
             // dateTimePicker1
             // 
             this.dateTimePicker1.Location = new System.Drawing.Point(143, 313);
+            this.dateTimePicker1.MaxDate = new System.DateTime(2024, 2, 28, 0, 0, 0, 0);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker1.TabIndex = 15;
+            this.dateTimePicker1.Value = new System.DateTime(2024, 2, 28, 0, 0, 0, 0);
             // 
             // radioButton1
             // 
@@ -238,6 +240,8 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.MaximumSize = new System.Drawing.Size(411, 489);
+            this.MinimumSize = new System.Drawing.Size(411, 489);
             this.Name = "third";
             this.Text = "firdth";
             this.ResumeLayout(false);
